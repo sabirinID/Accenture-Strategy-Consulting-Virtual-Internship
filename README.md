@@ -1,1 +1,1 @@
-# Accenture-Strategy-Consulting-Virtual-Internship
+# Accenture Strategy Consulting Virtual Internship
