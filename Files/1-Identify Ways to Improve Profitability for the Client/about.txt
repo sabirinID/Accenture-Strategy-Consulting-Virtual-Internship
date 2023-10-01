@@ -1,0 +1,56 @@
+Task 1: Identify Ways to Improve Profitability for the Client
+Uncovering key issues the client faces.
+
+# Task Overview
+	What you'll learn
+		How to break down break down business issues and define initiatives to increase business performance
+
+	What you'll do
+		Develop a summary of the client context and key issues
+		Analyze key drivers of profitability for your client
+
+# Here is the background information on your task
+Welcome to the first task of the Accenture UK Consulting Foundations Programme! In this task, you will get to learn about your new client, Everqlo, as well as analyse their current business context and challenges.
+
+You are part of a small Accenture project team engaged by Everqlo. Everqlo is a mid-sized fashion retailer in the UK, selling casual mens- and womenswear clothing & accessories. The company sells their products through several distribution channels: 
+
+	a network of their own retail stores throughout the UK 
+	their own e-commerce website
+	online marketplaces (e.g. like Farfetch)
+
+The company’s profitability has been stagnant for over a year now. In fact, Everqlo had been reporting losses for the past 6 months.
+
+Everqlo’s business performance was further affected by the rapid change in consumer buying behaviour, resulting from the pandemic and lockdown measures in the UK. As more and more consumers prefer online shopping, Everqlo’s retail stores have not seen the same consumer footfall, as they had prior to the start of the global pandemic.
+
+And whilst Everqlo’s competitors have been heavily investing in online distribution channels for years, Everqlo still relies on the majority of its revenue coming from retail store sales.
+
+As a result of this, Everqlo’s board of directors have brought on a new CEO and Director of E-commerce to improve the company's profitability.
+
+The new CEO has asked Accenture to help them break down their profitability issues and define a set of initiatives to increase profitability and overall business performance.
+
+# Here is your task
+Part 1
+
+Your Accenture project lead has asked you to create a one-slide summary of the client context & key issues.
+
+	Take a look at the attached PPT and the Situation, Complication, Question (SCQ) framework for summarising business problems and coming up with an analysis framework
+	Read through client background information again
+	Use the SCQ framework to distil Everqlo’s situation, complication and the key question that needs to be answered to help Everqlo with their business issues
+	Upload the PowerPoint slide with your definitions
+
+Part 2
+
+For the second part of the task, you are asked to analyse the key drivers of profitability at Everqlo.
+
+	Think about the factors that impact Everqlo’s profitability
+	Consult a sample profitability framework and try to adjust it to Everqlo’s business (a multi-channel retailer)
+	Create a profitability value tree to decompose drivers that contribute to the profitability of the company
+	Answer questions based on the value tree you create
+
+# Here are some resources to help you
+
+	SCQ Framework
+	https://cdn.theforage.com/vinternships/companyassets/ovyvuqqNRQKBjNxbj/WwDTpWDcoikbWNNBE/1636521129556/SCQ%20Framework.pptx
+
+Upload your PowerPoint
+	Select a File or drag it here.

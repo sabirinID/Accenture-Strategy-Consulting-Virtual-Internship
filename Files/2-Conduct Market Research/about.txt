@@ -1,0 +1,60 @@
+Task 2: Conduct Market Research
+Provide a recommended course of action based on market research.
+
+# Task Overview
+	What you'll learn
+		How to conduct important market research to make informed business decisions
+
+	What you'll do
+		Prepare an email to your client's Director of E-commerce with a recommendation on whether they should explore offering a BNPL option
+
+# Here is the background information on your task
+Welcome back to the Accenture UK Consulting Foundations Virtual Programme! In this task, you will be conducting important market research to help Everqlo make an informed business decision.
+
+Everqlo’s new Director for E-commerce was approached by a major Buy Now Pay Later (BNPL) provider to offer their services.
+
+Buy Now Pay Later (BNPL) is a form of point-of-sale credit that allows consumers to defer their purchase payment either through interest-free instalments (e.g. pay in 4 instalments) or after a certain interest-free period (e.g. pay in 30 or 60 days).
+
+While a form of credit, BNPL has been growing in popularity as a payment option with online shoppers, and this trend was further accelerated by a pandemic-driven surge in e-commerce volumes.
+
+Everqlo’s current payment options on their website include credit/debit card payment and Apple Pay.
+
+Everqlo’s Director of E-commerce is interested in offering BNPL and asked Accenture to provide their recommendation on whether it is worth exploring the BNPL option for their e-commerce store.
+
+# Here is your task
+Your task is to read through various materials & reports provided by your Accenture project lead and prepare an email to Everqlo’s Director of E-commerce, John Morgan, with a recommendation on whether Everqlo should explore offering a BNPL option on their e-commerce site.
+
+Think about how the BNPL payment option might impact some of the revenue drivers you identified in task 1 and be sure to include them in your recommendation.
+
+Submit your email in the text submission box below.
+
+# Here are some resources to help you
+
+	Minto Pyramid Principle for structured communications
+	https://www.consultantsmind.com/2016/10/05/minto/
+
+	Retailers bid farewell to layaway, as shoppers embrace BNPL options
+	https://www.cnbc.com/2021/09/25/why-retailers-are-embracing-buy-now-pay-later-financing-services.html
+
+	Afterpay Customers Save Up to $459 Million in Fees
+	https://www.eseller365.com/afterpay-users-save-459-million-not-using-cards/
+
+	Buy Now Pay Later Market Analysis
+	https://www.grandviewresearch.com/industry-analysis/buy-now-pay-later-market-report
+
+	The Benefits of BNPL for Consumers and Retailers
+	https://www.borngroup.com/views/buy-now-pay-later/
+
+	BNPL statistics and user habits
+	https://www.crresearch.com/blog/buy_now_pay_later_statistics
+
+	BNPL Report
+	https://www.businessinsider.com/buy-now-pay-later-ecommerce-financing-and-consumer-credit?international=true&r=US&IR=T
+
+	How rue21 upped its AOV by 73% with Klarna
+	https://www.klarna.com/us/blog/rue21-aov-coversion-increase-klarna/
+
+	Sample Recommendation Email Template
+	https://cdn.theforage.com/vinternships/companyassets/ovyvuqqNRQKBjNxbj/WwDTpWDcoikbWNNBE/1636521599878/Sample%20Recommendation%20Email%20Template.docx
+
+# 

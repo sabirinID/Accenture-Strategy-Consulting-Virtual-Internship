@@ -1,0 +1,44 @@
+Task 3: Redesign Customer Journey
+Visualising customer experience step-by-step.
+
+# Task Overview
+	What you'll learn
+		How to implement new features into an existing user experience
+
+	What you'll do
+		Create a high level user journey for your client's e-commerce site visitors, which will now include a BNPL option
+
+# Here is the background information on your task
+Welcome back to the Accenture UK Consulting Foundations Programme!
+
+In the previous task, you conducted market research by reading through various materials and reports, and wrote out an email with recommendations to Everqlo on creating a BNPL option. Next, we're going to dive into the customer journey, and visualize how the BNPL option will impact the customer journey at Everqlo’s e-commerce channel.
+
+User journeys, on a high level, describe a set of steps a user takes when interacting with a digital (or non--digital) product or service. User journey documents can include varying levels of detail and different types of information: high level user steps, touchpoints a user interacts with during their experience (e.g. a mobile app, and a retail store), user pain points at various steps of the journey, and other elements.
+
+User journeys can also be included in larger product or service blueprints, which describe not only the user-related aspects of the product or service, but also internal company processes required to support the service, as well as technology infrastructure related to that.
+
+User journey mapping process usually involves first describing the As Is journey, i.e. how users currently interact with a product / service, and a To Be journey, which visualises how the user will interact with the product in future, after the journey has been improved/redesigned.
+
+Everqlo’s E-commerce team has provided you with their current high level As Is process for their current e-commerce buying journey. Your task is to analyse the As Is journey, think about how a BNPL option will fit into the user experience and visualise the To Be user journey, that involves the new BNPL option.
+
+The client has asked you to provide a high-level journey of key user steps, so there is no need to go into the details related to pain points, tech infrastructure or other aspects.
+
+# Here is your task
+Your task is to create a high level To Be user journey for Everqlo e-commerce site visitors, which will include a BNPL option.
+
+	Take a look at the current user journey provided in the additional materials section
+	Visit the demo store link (https://www.klarna.com/demo/uk/en-GB/kp/products) where you can test a sample BNPL journey (for text message confirmation, enter any 6 digits). Feel free to test various scenarios. 
+	Take note of actual steps you took as a user to complete the journey
+	Update the user journey map by adding steps for using BNPL payment option
+ 
+# Here are some resources to help you
+
+	Current User Journey
+	https://cdn.theforage.com/vinternships/companyassets/ovyvuqqNRQKBjNxbj/WwDTpWDcoikbWNNBE/1634178861631/Task%203%20-%20Current%20User%20Journey.pptx
+ 
+	Demo Store Link
+	For text confirmation in the demo, enter any 6 digits
+	https://www.klarna.com/demo/uk/en-GB/kp/products/
+
+Upload your user journey
+	Select a File or drag it here.
